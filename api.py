@@ -2,7 +2,7 @@ import googlemaps
 from pprint import pprint
 from datetime import datetime
 
-API_KEY='AIzaSyD6R4OmyAdkl-eoR8de9hyJBLILzRx54KA'
+API_KEY=""
 
 gmaps=googlemaps.Client(key=API_KEY)
 
